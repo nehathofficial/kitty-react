@@ -1,0 +1,2393 @@
+@media screen and (max-width: 1499px) {
+  .banner {
+    height: 660px;
+  }
+  .banner-image {
+    width: 55%;
+    height: 690px;
+    padding: 0 0 110px 46px;
+  }
+  .members-div {
+    width: 200px;
+    height: 256px;
+  }
+  .banner p.banner-desc {
+    font-size: 16px;
+    line-height: 26px;
+    margin: 0px 97px 0px 0px;
+  }
+  .hiw-bottom {
+    padding: 64px 0px 20px 0px;
+  }
+  .hiw-bottom h3 {
+    font-size: 35px;
+    line-height: 30px;
+  }
+  .section-padding {
+    padding: 63px 70px;
+  }
+  .faq-padding {
+    padding: 72px 70px 94px 70px;
+  }
+  .faq-text {
+    right: 0px;
+  }
+
+  .wcu_box {
+    padding-left: 70px;
+  }
+  .wcu-right {
+    padding: 78px 70px 142px 40px;
+  }
+  .wcu-right .card-box {
+    padding: 13px 10px;
+    width: 260px;
+    height: 240px;
+  }
+  .wcu-right .card-box .card-title {
+    font-size: 17px;
+    line-height: 15px;
+  }
+  .wcu-right .card-box .card-text {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .wcu-right .card-box img {
+    width: 50px;
+  }
+  .wcu_box::before {
+    left: 39px;
+  }
+  footer .foot_left {
+    padding: 47px 63px 23px 70px;
+  }
+  .brochure {
+    background-position: bottom -82px right -13px;
+  }
+  .brochure img.brochure_mob {
+    right: 20px;
+    bottom: 0px;
+    width: 113px;
+  }
+  .clients-padding {
+    padding: 0px 100px 42px 100px;
+  }
+  .slider_box .slider_left img {
+    width: 90px !important;
+    height: 90px;
+  }
+  .slider_box .slider_right p {
+    font-size: 15px;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .slider_box .slider_right {
+    padding: 30px 15px 32px 15px;
+  }
+  button.readmore {
+    font-size: 16px;
+    line-height: 13px;
+    padding: 20px 65px 21px 65px;
+  }
+  .banner .banner-heading,
+  .howitworks .head-area h2,
+  .testihead h1,
+  .wcu_box .title {
+    font-size: 40px;
+    line-height: 49px;
+  }
+  .footer_border {
+    margin: 40px 0px 20px 0px;
+  }
+  .foot_left::after {
+    right: 54%;
+  }
+  .form_area {
+    padding: 45px 50px 60px 42px;
+  }
+  button.login-submit {
+    font-size: 17px;
+    line-height: 16px;
+    padding: 17px 60px 17px 60px;
+  }
+  .signup_right .text_area button {
+    font-size: 16px;
+    line-height: 18px;
+    padding: 13px 41px;
+  }
+  .signup_right .text_area p {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  .signup_right .text_area h1 {
+    font-size: 24px;
+    line-height: 50px;
+  }
+  .signup_right {
+    padding: 38px 21px;
+  }
+  .signup_right .mid_area img {
+    width: 100%;
+  }
+  svg.userplaceholder {
+    width: 22px;
+  }
+  .headafter {
+    right: 12%;
+  }
+}
+@media screen and (max-width: 1399px) {
+  .banner {
+    height: 497px;
+  }
+  .banner .banner-txt {
+    padding: 41px 0px 136px 0px;
+  }
+  .banner-image {
+    width: 47%;
+    height: 525px;
+    padding: 0px 0 65px 24px;
+  }
+  .members-div img.members-img {
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+  }
+  .members-div img.members-group-img {
+    width: 120px;
+    height: auto;
+  }
+  .members-div h2.member-count {
+    font-size: 26px;
+    line-height: 15px;
+  }
+  .members-div p.member-txt {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .members-div {
+    width: 167px;
+    height: 207px;
+  }
+  .banner .banner-btns .btn-getSt,
+  .banner .banner-btns .btn-readMore {
+    margin: 0px 15.5px 0px 3px;
+    padding: 14px 30.4px 14px 30px;
+    line-height: 15px;
+  }
+
+  .section-padding {
+    padding: 50px 70px;
+    height: 665px;
+  }
+  .whyChooseUs {
+    padding: 75px 0px;
+  }
+  .wcu-right {
+    padding: 45px 60px 45px 10px;
+  }
+  .wcu-right .card-box .card-title {
+    font-size: 15px;
+    line-height: 15px;
+    margin: 7px 0px 6px 0px;
+  }
+  .wcu-right .card-box img {
+    width: 35px;
+  }
+  .wcu-right .card-box {
+    padding: 13px 10px;
+    width: 242px;
+    height: 188px;
+  }
+  .wcu_box .title {
+    margin: 11px 0px 12px 0px;
+  }
+  .wcu_box .sub-title {
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .wcu_box ul.list {
+    margin: 20px 0px 25px 0px !important;
+  }
+  .wcu-right::before {
+    bottom: 11%;
+    left: 169px;
+    width: 167px;
+    height: 108px;
+  }
+  .banner p.banner-desc,
+  .howitworks .head-area p,
+  .wcu_box .desc,
+  .hiw-bottom p,
+  .faq-right-head p,
+  .testihead p,
+  .hiw-boxes .cards-title {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  .wcu_box ul.list li {
+    font-size: 14px;
+    line-height: 23px;
+  }
+  .hiw-boxes .cards-title {
+    font-size: 15px;
+    line-height: 22px;
+    margin: 5px 0px;
+  }
+  .hiw-boxes .cards-text {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .hiw-bottom {
+    padding: 45px 0px 6px 0px;
+  }
+  .cards-img-top {
+    width: 80px;
+  }
+  .hiw-boxes .cards {
+    padding: 14px;
+  }
+  .faq-text {
+    right: -30px;
+  }
+  .footer_border {
+    margin: 20px 0px 20px 0px;
+  }
+  .clients_top_img {
+    width: 225px;
+  }
+  .banner .banner-heading,
+  .howitworks .head-area h2,
+  .hiw-bottom h3,
+  .testihead h1,
+  .wcu_box .title,
+  .faq-right-head h2 {
+    font-size: 30px;
+    line-height: 39px;
+  }
+  .banner .sub-title {
+    font-size: 26px;
+    line-height: 45px;
+  }
+  button.readmore {
+    font-size: 15px;
+    line-height: 13px;
+    padding: 17px 50px 17px 50px;
+  }
+  .slider_box .slider_right h2 {
+    font-size: 15px;
+    line-height: 21px;
+  }
+  .slider_box .slider_right p {
+    font-size: 14px;
+    line-height: 21px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+  }
+  .slider_box .slider_right h4,
+  .slider_box .slider_right h4 span {
+    font-size: 14px;
+    line-height: 19px;
+  }
+  .slider_box,
+  .slider_inner {
+    height: 235px;
+  }
+  .slider_inner::before {
+    left: 19px;
+    height: 143px;
+  }
+  .slider_box .slider_left img {
+    width: 82px !important;
+    height: 82px;
+    top: 66px;
+    left: 14px;
+  }
+  .slider_box .slider_left {
+    width: 25%;
+  }
+  .testislider .item {
+    height: 260px;
+  }
+
+  .faq-padding {
+    padding: 57px 70px 73px 70px;
+  }
+  .faq-text .rotate-text {
+    font-size: 20px;
+    line-height: 27px;
+  }
+  .faq-text {
+    right: 43px;
+  }
+  .faq .main-img {
+    height: 424px;
+    width: 420px;
+  }
+  .faq .small-img {
+    bottom: -48px;
+    right: 65px;
+    width: 227px;
+  }
+  .wcu-right {
+    height: 455px;
+  }
+  .fb-right {
+    margin-top: 20px;
+  }
+  .fb-left ul li {
+    margin-right: 13px;
+    line-height: 26px;
+  }
+  .fb-right ul li {
+    height: 25px;
+    width: 25px;
+    padding: 5px;
+  }
+  .fb-right ul li.pintrest {
+    padding: 7px;
+  }
+  .fb-left img {
+    width: 85px;
+    height: 40px;
+    margin-right: 12px;
+  }
+  .fb-left {
+    padding-top: 0px;
+  }
+  .fb-left,
+  .fb-right {
+    width: 100%;
+  }
+  footer .foot_left {
+    padding: 40px 63px 16px 70px;
+  }
+  .brochure h2 {
+    font-size: 18px;
+    line-height: 21px;
+  }
+  .bro_text img {
+    width: 22px;
+  }
+  .bro_text p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .brochure {
+    border-radius: 24px;
+    height: 225px;
+    padding: 20px;
+    background-position: bottom -107px right -60px;
+  }
+  .brochure img.brochure_mob {
+    right: 17px;
+    width: 95px;
+  }
+  .foot_list1 ul li {
+    font-size: 13px;
+    line-height: 29px;
+  }
+  .foot_address p {
+    font-size: 13px;
+    line-height: 21px;
+  }
+  .foot_address h4 {
+    font-size: 13px;
+    line-height: 21px;
+  }
+  .banner-image::before {
+    top: 46px;
+    left: 83px;
+  }
+  .foot_left::after {
+    right: 53%;
+    top: 34%;
+  }
+  .otp_area div {
+    gap: 0.7rem;
+  }
+  .otp_area {
+    padding: 40px 35px 10px 35px;
+  }
+  .otp_area .subtitle, .otpBtn p {
+    margin-top: 16px;
+    margin-bottom: 30px;
+  }
+  section.otp {
+    background-size: 100% 794px;
+  }
+}
+@media screen and (max-width: 1299px) {
+  .faq-text {
+    right: -19px;
+  }
+
+  .brochur_btn {
+    width: 240px;
+  }
+  .faq .small-img {
+    bottom: -48px;
+    right: 12px;
+    width: 227px;
+  }
+  .logintext p, .logintext a {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 1199px) {
+  .banner {
+    height: 500px !important;
+  }
+  .banner-image {
+    height: 530px;
+    width: 52%;
+  }
+  .members-div {
+    width: 180px;
+    height: 229px;
+    position: absolute;
+    bottom: 51px;
+  }
+  .members-div img.members-img {
+    height: 60px;
+    width: 60px;
+  }
+  .members-div img.members-group-img {
+    width: 120px;
+  }
+  .members-div h2.member-count {
+    font-size: 27px;
+    line-height: 25px;
+    margin-bottom: 17px;
+  }
+  .members-div p.member-txt {
+    margin: 9px 0px 0px 0px;
+    font-size: 15px;
+    line-height: 27px;
+  }
+  .banner .banner-txt {
+    padding: 44px 0px 160px 0px;
+  }
+  .banner .banner-heading {
+    font-size: 28px;
+    line-height: 38px;
+    margin: 20px 33px 25px 2px;
+  }
+  .banner .sub-title {
+    font-size: 22px;
+    line-height: 26px;
+    margin: 27px 0px 12px 0px;
+  }
+  .banner .banner-btns {
+    margin-top: 35px;
+  }
+  .banner .banner-btns .btn-getSt,
+  .banner .banner-btns .btn-readMore {
+    font-size: 13px;
+    line-height: 12px;
+    padding: 17px 25px 16px 25px;
+    margin: 8px 15.5px 0px 3px;
+  }
+
+  .banner-image::before {
+    top: 20px;
+    left: 106px;
+  }
+  .section-padding {
+    padding: 63px 40px;
+  }
+  .faq-padding {
+    padding: 72px 40px 94px 40px;
+  }
+  .faq-text {
+    right: -15px;
+  }
+
+  .wcu_box {
+    padding-left: 40px;
+  }
+  .wcu_box::before {
+    left: 18px;
+  }
+  .wcu-right {
+    padding: 78px 40px 142px 20px;
+  }
+  .wcu_box .title {
+    font-size: 32px;
+    line-height: 41px;
+  }
+  .wcu_box .desc {
+    font-size: 15px;
+    line-height: 28px;
+    padding-right: 11.5%;
+  }
+  .wcu_box ul.list li {
+    font-size: 15px;
+    line-height: 29px;
+  }
+  .wcu-right .card-box {
+    padding: 13px 10px;
+    width: 210px;
+    height: 220px;
+  }
+  .wcu-right .card-box img {
+    width: 25px;
+  }
+  .wcu-right .card-box .card-title {
+    font-size: 15px;
+    line-height: 11px;
+    margin: 18px 0px 10px 0px;
+  }
+  .wcu-right .card-box .card-text {
+    line-height: 21px;
+  }
+  .brochure {
+    margin-top: 0px;
+  }
+  .brochur_btn {
+    width: 230px;
+  }
+  .fb-left {
+    width: 100%;
+  }
+  .fb-right {
+    width: 100%;
+    margin-top: 16px;
+  }
+  .foot_list1 {
+    width: 20%;
+  }
+  .foot_address {
+    width: 40%;
+  }
+  .foot_brochure {
+    width: 40%;
+  }
+  .brochure img.brochure_mob {
+    display: none;
+  }
+  footer .foot_left {
+    padding: 30px 12px 10px 22px;
+  }
+  .brochure {
+    height: 202px;
+  }
+  .bro_text {
+    margin: 12px 0px;
+    padding-right: 0;
+  }
+  .clients-padding {
+    padding: 0px 40px 42px 40px;
+  }
+  .brochur_btn {
+    position: absolute;
+    bottom: 47px;
+    left: 33px;
+    width: 224px;
+  }
+  .foot_right a {
+    position: absolute;
+    bottom: 33px;
+    right: 23px;
+  }
+  .foot_left::after {
+    right: 46%;
+    top: 30%;
+    width: 66px;
+    height: 89px;
+  }
+  .signup_text p, .signup_text a, .frgtpsw p, .frgtpsw a {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  button.login-submit {
+    font-size: 15px;
+    line-height: 16px;
+    padding: 15px 40px 15px 40px;
+  }
+  .field_area input {
+    height: 45px;
+  }
+  .otp_area {
+    width: 50%;
+  }
+  .otp_area h1 {
+    font-size: 20px;
+    line-height: 14px;
+  }
+  .otp_area .subtitle, .otpBtn p {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+    margin-top: 14px;
+    margin-bottom: 21px;
+  }
+  .otp_area input[type="number"] {
+    width: 45px !important;
+    height: 45px;
+    font-size: 1rem;
+  }
+  .otpBtn button {
+    padding: 18px 0px;
+    font-size: 15px;
+    line-height: 16px;
+  }
+  section.otp {
+    background-size: 100% 633px;
+  }
+  .headafter {
+    right: 14%;
+  }
+}
+
+@media screen and (max-width: 1099px) {
+  .nav-link {
+    padding: 0px 16px 0px 0px !important;
+    margin: 0px 13px 0px 0px !important;
+    font-size: 13px;
+  }
+  .nav-item {
+    margin: 10px 0px 10px 0px;
+  }
+
+  .faq .main-img {
+    height: 404px;
+    width: 400px;
+  }
+  .faq .small-img {
+    bottom: -48px;
+    right: -10px;
+    width: 227px;
+  }
+  .faq-text .rotate-text {
+    font-size: 18px;
+  }
+  .faq-text {
+    right: -60px;
+  }
+  .faq-right-head h2 {
+    font-size: 25px;
+    line-height: 27px;
+  }
+  .faq-right-head p {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  .signup_right .logo_area a img {
+    width: 90px;
+    height: auto;
+  }
+  .signup_right .mid_area {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .formTag {
+    margin: 21px 0px 28px 0px;
+  }
+  .Toastify__toast-container{
+    top:8% !important;
+    padding: 3px;
+  }
+  .authmenu{
+    margin-top: 5px;
+  }
+  .headafter {
+    right: 15%;
+  }
+}
+
+/* ------------------1199px-----------------  */
+
+@media screen and (max-width: 1024px) {
+  .clients_top_img {
+    width: 186px;
+  }
+  .hiw-bottom {
+    padding: 27px 0px 6px 0px;
+  }
+  .section-padding {
+    padding: 45px 40px;
+  }
+  .banner {
+    height: 453px !important;
+  }
+  .banner-image {
+    height: 472px;
+    width: 52%;
+  }
+  .members-div {
+    width: 160px;
+    height: 215px;
+    position: absolute;
+    bottom: 46px;
+  }
+  .banner .container-fluid {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding: 0px 45px 0px 45px !important;
+  }
+  .whyChooseUs {
+    padding: 50px 0px;
+  }
+  .wcu-right {
+    padding: 50px 40px 142px 20px;
+  }
+  button.readmore {
+    font-size: 13px;
+    line-height: 13px;
+    padding: 13px 35px 13px 35px;
+  }
+}
+
+/* ------------------1024px-----------------  */
+
+@media screen and (max-width: 991px) {
+  header .container-fluid {
+    padding: 0px 13px 0px 32px !important;
+  }
+  .nav-link::after {
+    content: "";
+  }
+  .banner .container-fluid {
+    padding: 0px 30px 0px 30px !important;
+  }
+  .banner .banner-txt {
+    width: 50%;
+  }
+  .banner {
+    height: 400px !important;
+    background-size: 632px 355px;
+  }
+  .banner .banner-txt {
+    padding: 14px 0px 65px 0px;
+  }
+  .banner .banner-heading {
+    font-size: 25px;
+    line-height: 35px;
+    margin: 14px 19px 12px 2px;
+  }
+  .banner .sub-title {
+    font-size: 19px;
+    line-height: 18px;
+  }
+  .banner p.banner-desc {
+    font-size: 15px;
+    line-height: 24px;
+  }
+  .banner .banner-btns .btn-getSt,
+  .banner .banner-btns .btn-readMore {
+    font-size: 12px;
+    line-height: 12px;
+    padding: 13px 15px 13px 15px;
+    margin: 15px 10.5px 0px 0px;
+  }
+  .banner .banner-btns {
+    margin-top: 20px;
+  }
+  .members-div {
+    width: 135px;
+    height: 175px;
+    padding: 10px;
+  }
+  .members-div img.members-img {
+    height: 40px;
+    width: 40px;
+  }
+  .members-div img.members-group-img {
+    width: 100px;
+  }
+  .members-div h2.member-count {
+    font-size: 19px;
+    line-height: 20px;
+    margin-bottom: 17px;
+  }
+  .members-div p.member-txt {
+    font-size: 13px;
+    line-height: 22px;
+  }
+  .banner-image::before {
+    top: 0px;
+    left: 87px;
+  }
+  .banner-image {
+    height: 433px;
+    width: 52%;
+  }
+  .howitworks .head-area {
+    width: 87%;
+  }
+  .section-padding {
+    padding: 49px 50px 0 50px;
+    height: 670px;
+  }
+  .howitworks .head-area h2 {
+    font-size: 25px;
+    line-height: 27px;
+  }
+
+  button.readmore {
+    font-size: 16px;
+    line-height: 15px;
+    color: #ffffff;
+    padding: 20px 68px 21px 68px;
+  }
+  .hiw-boxes .cards {
+    padding: 14px;
+  }
+  .hiw-boxes .cards-img-top {
+    width: 100px;
+  }
+  .banner p.banner-desc,
+  .howitworks .head-area p,
+  .wcu_box .desc,
+  .hiw-bottom p,
+  .faq-right-head p,
+  .testihead p,
+  .hiw-boxes .cards-title {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .hiw-bottom h3 {
+    font-size: 25px;
+    line-height: 27px;
+  }
+  .faq-padding {
+    padding: 0px 40px 40px 40px;
+  }
+  .faq .main-img {
+    height: 368px;
+    width: 311px;
+  }
+
+  .faq .small-img {
+    right: 21px;
+    bottom: -45px;
+    width: 200px;
+  }
+  .faq .small-img img {
+    width: 100%;
+  }
+  .faq .after-img {
+    bottom: -6%;
+    right: 100px;
+  }
+  .faq-text {
+    right: -30px;
+    top: 46px;
+  }
+  .faq-right {
+    padding-left: 0px;
+    padding-top: 65px;
+  }
+
+  button.readmore {
+    font-size: 13px;
+    line-height: 13px;
+    color: #ffffff;
+    padding: 13px 35px 13px 35px;
+  }
+  .wcu_box::after {
+    right: 13%;
+    width: 84px;
+    height: 37px;
+  }
+  .wcu-right {
+    padding: 54px 77px 40px 0px;
+    width: 60%;
+    background-position: left 66% top 85%;
+    background-size: 275px 275px;
+  }
+  .wcu_box ul.list li {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .banner p.banner-desc,
+  .howitworks .head-area p,
+  .wcu_box .desc,
+  .hiw-bottom p,
+  .faq-right-head p,
+  .testihead p,
+  .hiw-boxes .cards-title,
+  .accordion-body,
+  .accordion-button {
+    font-size: 13px;
+    line-height: 22px;
+  }
+  .wcu_box .title {
+    margin: 16px 0px 9px 0px;
+  }
+  .banner .banner-heading,
+  .howitworks .head-area h2,
+  .hiw-bottom h3,
+  .testihead h1,
+  .wcu_box .title,
+  .faq-right-head h2 {
+    font-size: 25px;
+    line-height: 29px;
+  }
+  .wcu_box .sub-title {
+    font-size: 16px;
+    line-height: 10px;
+  }
+  .whyChooseUs {
+    padding: 50px 0px 55px 0px;
+  }
+  .wcu_box .desc {
+    font-size: 14px;
+    line-height: 26px;
+    padding-right: 2px;
+  }
+  .wcu-right .card-box {
+    padding: 13px 7px;
+    width: 170px;
+    height: 218px;
+  }
+  .wcu-right::before {
+    display: none;
+  }
+  .fb-left {
+    display: block !important;
+  }
+  .testihead h1 {
+    font-size: 25px;
+    line-height: 27px;
+  }
+  .testihead p {
+    font-size: 15px;
+    line-height: 21px;
+    margin: 11px 0px 21px 0px;
+  }
+  .clients_top_img {
+    width: 180px;
+  }
+  .slider_box .slider_right h2 {
+    font-size: 15px;
+    line-height: 15px;
+  }
+  .slider_box .slider_right p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 6px;
+    margin-bottom: 7px;
+  }
+  .slider_inner::before {
+    height: 164px;
+  }
+  .slider_box,
+  .slider_inner {
+    height: 230px;
+  }
+  .owl-dot {
+    margin: 0px 7.5px 0px 7.5px;
+  }
+  .slider_box .slider_right h4,
+  .slider_box .slider_right h4 span {
+    font-size: 14px;
+  }
+  .slider_box .slider_left img {
+    top: 62px;
+    left: 18px;
+  }
+  .slider_box .slider_left {
+    width: 25%;
+  }
+  .slider_box .slider_left img {
+    width: 75px !important;
+    height: 75px;
+  }
+  footer .foot_left {
+    padding: 25px 40px 7px 25px;
+  }
+  .brochure h2 {
+    font-size: 18px;
+    line-height: 17px;
+  }
+  .brochure {
+    background-position: bottom -82px right -13px;
+    padding: 21px 15px 15px 15px;
+    height: 228px;
+    margin-top: 0px;
+  }
+  .footer_border {
+    margin: 30px 0px 22px 0px;
+  }
+  .fb-left img {
+    width: 70px;
+    height: 31px;
+  }
+  .fb-right {
+    margin-top: 6px;
+  }
+  .fb-right h4 {
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 10px;
+  }
+  .fb-right ul li {
+    height: 25px;
+    width: 25px;
+  }
+  .fb-right ul li img {
+    max-width: 57%;
+  }
+  .sm-res {
+    display: block;
+  }
+  .lg-res {
+    display: none;
+  }
+  .fb-right ul li {
+    padding: 0px;
+  }
+  .fb-right ul li.pintrest {
+    padding: 4px;
+  }
+  .fb-left ul li {
+    line-height: 15px;
+    margin-top: 7px;
+  }
+  .fb-left,
+  .fb-right,
+  .fb-right h4 {
+    text-align: center;
+  }
+  .foot_right a {
+    right: 12px;
+  }
+  .wcu-right .card-box .card-title {
+    font-size: 14px;
+    line-height: 0px;
+    margin: 10px 0px 9px 0px;
+  }
+  .wcu-right .card-box {
+    width: 170px;
+    height: 192px;
+  }
+  .hiw-boxes .cards-title {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .wcu-right .card-box .card-text {
+    line-height: 18px;
+    font-size: 13px;
+  }
+  .slider_box .slider_right {
+    padding: 19px 15px 32px 15px;
+  }
+  .form_area {
+    border-radius: 33px;
+    margin: 8px 8px 10px 8px;
+  }
+  .form_area.login {
+    padding: 45px 85px 60px 66px;
+  }
+  .sdivr{
+    display: none;
+  }
+  .signup .container::after{
+    background-image: none
+  }
+  .form_area .logo_area{
+    display: block;
+    margin-bottom: 25px;
+  }
+  .form_area .logo_area a img{
+    width: 15%;
+  }
+  .signup .container {
+    max-width: 75%;
+    position: relative;
+  }
+  
+  .form_area.login {
+    height: 97%;
+  }
+  .otpBtn button {
+    width: 90%;
+  }
+  .otp_area {
+    background-color: #ffffff;
+    width: 60%;
+  }
+  .headafter {
+    position: unset;
+  }
+  .userName{
+    display: none;
+  }
+  .dropMenus {
+    border-left: none;
+  }
+  .usermenus {
+    position: absolute;
+    right: 9%;
+  }
+  .dropdown-menu-lg-start[data-bs-popper] {
+    left: -118px;
+    top: 43px;
+  }
+}
+
+@media screen and (max-width: 838px) {
+  .faq-text {
+    right: -59px;
+  }
+  .faq .main-img {
+    height: 354px;
+    width: 299px;
+  }
+  .faq .small-img {
+    right: 29px;
+    bottom: -45px;
+    width: 169px;
+  }
+  .slider_box,
+  .slider_inner {
+    height: 261px;
+  }
+  .testislider .item {
+    height: 277px;
+  }
+  .banner .banner-heading,
+  .howitworks .head-area h2,
+  .hiw-bottom h3,
+  .testihead h1,
+  .wcu_box .title,
+  .faq-right-head h2 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .banner {
+    height: 340px !important;
+    background-size: 544px 319px;
+  }
+  .banner-image {
+    height: 360px;
+    width: 50%;
+  }
+  .banner p.banner-desc,
+  .howitworks .head-area p,
+  .wcu_box .desc,
+  .hiw-bottom p,
+  .faq-right-head p,
+  .testihead p,
+  .hiw-boxes .cards-title,
+  .accordion-body,
+  .accordion-button {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .howitworks .head-area p {
+    margin: 9px 0px 17px 0px;
+  }
+  .hiw-boxes .cards-img-top {
+    width: 80px;
+  }
+  button.readmore {
+    font-size: 14px;
+    line-height: 14px;
+    padding: 13px 35px 13px 35px;
+  }
+  .faq .main-img {
+    height: 330px;
+    width: 299px;
+  }
+  .section-padding {
+    padding: 29px 50px 0 50px;
+    height: 639px;
+  }
+
+  .brochur_btn {
+    position: absolute;
+    bottom: 25px;
+    left: 18px;
+    width: 189px;
+  }
+  .wcu-right {
+    padding: 37px 22px 39px 0px;
+    width: 52%;
+    background-position: left 66% top 59%;
+  }
+  .foot_left::after {
+    right: 46%;
+    top: 38%;
+    width: 44px;
+    height: 65px;
+  }
+  .faq-padding {
+    padding: 34px 40px 40px 40px;
+  }
+}
+
+/* ------------------991px-----------------  */
+
+@media screen and (max-width: 768px) {
+  .banner {
+    height: 273px !important;
+    background-size: 495px 320px;
+  }
+  .banner .banner-txt {
+    width: 57%;
+  }
+  .banner-image {
+    height: 300px;
+    width: 48%;
+  }
+  .banner-image::before {
+    top: 0px;
+    left: 30px;
+  }
+  .banner .banner-txt {
+    padding: 0px 0px 65px 0px;
+  }
+  .banner .sub-title {
+    font-size: 15px;
+    line-height: 0px;
+  }
+  .banner .banner-heading {
+    font-size: 19px;
+    line-height: 25px;
+  }
+  .banner p.banner-desc {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .banner .banner-btns .btn-getSt,
+  .banner .banner-btns .btn-readMore {
+    font-size: 11px;
+    line-height: 12px;
+    padding: 13px 10px 13px 10px;
+    margin: 0px 4px 0px 3px;
+  }
+  .members-div {
+    width: 126px;
+    height: 162px;
+    padding: 10px;
+    bottom: 16px;
+  }
+
+  .hiw-boxes .cards {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding: 20px;
+  }
+  .section-padding {
+    padding: 43px 20px;
+    height: 645px;
+  }
+  .howitworks .head-area h2 {
+    font-size: 30px;
+    line-height: 32px;
+  }
+  .howitworks .head-area p {
+    margin: 9px 0px 15px 0px;
+  }
+  .hiw-bottom {
+    padding: 25px 0px 0px 0px;
+  }
+  .hiw-bottom h3 {
+    font-size: 30px;
+    line-height: 32px;
+  }
+  button.readmore {
+    font-size: 14px;
+    line-height: 14px;
+    color: #ffffff;
+    padding: 11px 30px 11px 30px;
+    margin-top: 0px;
+  }
+  .hiw-boxes .cards-img-top {
+    width: 70px;
+  }
+  .hiw-boxes .cards-text {
+    line-height: 20px;
+    font-size: 13px;
+  }
+  .hiw-bottom button.readmore {
+    margin-top: 13px;
+  }
+  .hiw-boxes .cards-title {
+    font-size: 15px;
+    line-height: 16px;
+  }
+  .faq-padding {
+    padding: 111px 40px 37px 40px;
+  }
+  .faq-right {
+    padding-top: 62px;
+  }
+  .faq .main-img {
+    height: 324px;
+    width: 320px;
+    left: 30px;
+  }
+  .faq .small-img {
+    right: 159px;
+    bottom: -31px;
+    width: 168px;
+  }
+  .faq .after-img {
+    bottom: -5%;
+    right: 282px;
+    width: 148px;
+    height: auto;
+  }
+  .faq .cross-img {
+    left: 37px;
+  }
+  .faq-text {
+    right: 130px;
+  }
+  .faq-text .rotate-text {
+    font-size: 16px;
+  }
+  /* .faq-lg {
+    display: none;
+  } */
+  /* .faq-sm {
+    display: block;
+  }
+  .faq-sm {
+    display: block;
+    position: absolute;
+    top: -77px;
+    text-align: center;
+    width: 100%;
+  } */
+  .faq::after {
+    top: -19px;
+    right: 32px;
+    width: 50px;
+    height: 50px;
+  }
+  .wcu-right {
+    padding: 31px 5px 0px 5px;
+    width: 100%;
+    position: unset;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .wcu_card_lg {
+    display: none !important;
+  }
+  .wcu_card_sm {
+    display: block;
+  }
+  .wcu-rbox {
+    justify-content: space-around !important;
+    margin-bottom: 0;
+  }
+  .wcu-right .card-box {
+    width: 200px;
+    height: 165px;
+  }
+  .bro_text {
+    padding-right: 0%;
+  }
+  footer .foot_left {
+    padding: 25px 20px 6px 20px;
+  }
+  .bro_text p {
+    font-size: 13px;
+    line-height: 19px;
+  }
+  .footer_border {
+    margin: 16px 0px 17px 0px;
+  }
+
+  .testihead h1 {
+    font-size: 29px;
+    line-height: 29px;
+  }
+  .slider_inner::before {
+    height: 119px;
+    top: 24px;
+    left: 9px;
+  }
+  .slider_box .slider_left {
+    width: 25%;
+  }
+  .slider_box,
+  .slider_inner {
+    height: 196px;
+  }
+  .slider_box .slider_left img {
+    top: 43px;
+    left: 12px;
+  }
+  .testislider .item {
+    height: 240px;
+  }
+  .banner .banner-heading,
+  .howitworks .head-area h2,
+  .hiw-bottom h3,
+  .testihead h1,
+  .wcu_box .title,
+  .faq-right-head h2,
+  .faq-sm .rotate-text {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .banner p.banner-desc,
+  .howitworks .head-area p,
+  .wcu_box .desc,
+  .hiw-bottom p,
+  .faq-right-head p,
+  .testihead p,
+  .hiw-boxes .cards-title,
+  .accordion-body,
+  .accordion-button {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .members-div img.members-group-img {
+    width: 80px;
+  }
+  .members-div h2.member-count {
+    font-size: 17px;
+    line-height: 16px;
+    margin-bottom: 3px;
+  }
+  .members-div p.member-txt {
+    font-size: 12px;
+    line-height: 18px;
+  }
+  .members-div {
+    width: 118px;
+    height: 136px;
+    padding: 8px;
+    bottom: 49px;
+  }
+  .whyChooseUs {
+    padding: 40px 0px 33px 0px;
+  }
+  .brochure h2 {
+    font-size: 15px;
+    line-height: 17px;
+  }
+  .brochur_btn {
+    bottom: 23px;
+    width: 167px;
+  }
+  .slider_box .slider_right {
+    width: 80%;
+  }
+  .slider_box .slider_left {
+    width: 20%;
+  }
+  .slider_box .slider_right p {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .foot_left::after {
+    background-image: none;
+  }
+  
+  #faqAccordion .accordion-header span {
+    font-size: 14px;
+  }
+  #faqAccordion .accordion-button, #faqAccordion .accordion-body{
+    padding: 10px 10px !important;
+    line-height: 16px;
+  }
+  .accordion-button:not(.collapsed)::after, .accordion-button::after {
+    background-size: 11px 10px;
+  }
+  .form_area, .form_area.login {
+    padding: 34px 35px 36px 34px;
+  }
+  .form_title {
+    font-size: 20px;
+    line-height: 21px;
+  }
+  .form_area .logo_area a img{
+    width: 17%;
+  }
+  .agree_area label {
+    margin-left: 10px;
+  }
+  .otp_area {
+    width: 90%;
+  }
+  section.otp {
+    background-size: 100% 560px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+  }
+  .otp_area h1 {
+    font-size: 17px;
+    line-height: 14px;
+  }
+  .otp_area .subtitle, .otpBtn p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 12px;
+    margin-bottom: 19px;
+  }
+  .otpBtn button {
+    padding: 17px 0px;
+    font-size: 14px;
+    line-height: 15px;
+    width: 86%;
+  }
+  .Toastify__toast-container {
+    top: 6% !important;
+    z-index: 99999999 !important;
+  }
+  .dropMenus .dropdown-item {
+    padding: 7px 13px;
+    font-size: 13px;
+  }
+}
+@media screen and (max-width: 675px) {
+  .wcu-rbox {
+    flex-direction: column;
+  }
+  .wcu-right .card-box img {
+    width: 50px;
+  }
+  .wcu-right .card-box {
+    width: 80%;
+    height: auto;
+    margin: 8px auto;
+    padding: 17px 10px;
+  }
+  .wcu-right .card-box .card-title {
+    font-size: 14px;
+    line-height: 11px;
+  }
+  .wcu-right {
+    padding: 18px 5px 0px 5px;
+  }
+  .wcu-right::before {
+    bottom: 25%;
+    left: 81px;
+    width: 211px;
+    height: 120px;
+  }
+  .section-padding {
+    height: 640px;
+  }
+  .faq .main-img {
+    height: 290px;
+    width: 286px;
+  }
+  .faq .small-img {
+    right: 136px;
+    width: 152px;
+  }
+  .faq-text {
+    right: 88px;
+  }
+  .faq-text .rotate-text {
+    font-size: 14px;
+  }
+  .bro_text p {
+    font-size: 13px;
+    line-height: 16px;
+  }
+  .brochure h2 {
+    font-size: 14px;
+    line-height: 12px;
+  }
+  .bro_text img {
+    width: 16px;
+  }
+  footer .foot_left {
+    padding: 25px 0px 6px 10px;
+  }
+  .brochure {
+    background-position: bottom -82px right -13px;
+    padding: 21px 8px 15px 8px;
+    height: 215px;
+    margin-top: 0px;
+  }
+  .brochur_btn {
+    bottom: 32px;
+    width: 159px;
+    left: 8px;
+  }
+  .hiw-boxes .cards {
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding: 11px;
+  }
+
+  .foot_right a {
+    width: 34px;
+  }
+  .form_area .logo_area a img{
+    width: 20%;
+  }
+  .signup .container {
+    max-width: 90%;
+    position: relative;
+  }
+  .field_area label {
+    font-size: 13px;
+    line-height: 13px;
+  }
+  .field_area input {
+    height: 38px;
+  }
+  section.otp {
+    background-size: 100% 520px;
+  }
+  .usermenus {
+    right: 12%;
+  }
+}
+@media screen and (max-width: 608px) {
+}
+/* ------------------575px-----------------  */
+@media screen and (max-width: 575px) {
+  .banner {
+    height: 296px !important;
+    background-image: none;
+  }
+  .banner-image::before {
+    background-image: none;
+  }
+  .banner .banner-txt {
+    padding: 15px 36px 32px 20px;
+    z-index: 999;
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+  .banner .banner-heading {
+    font-size: 19px;
+    line-height: 25px;
+    margin: 16px 19px 14px 2px;
+  }
+  .main-image {
+    z-index: 0;
+  }
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #aeff2e7a;
+    z-index: 1;
+  }
+  .banner-image {
+    height: 291px;
+    width: 55%;
+  }
+  .members-div {
+    width: 107px;
+    height: 135px;
+    padding: 6px;
+    bottom: 3px;
+    right: 15px;
+  }
+  .members-div p.member-txt {
+    font-size: 10px;
+    line-height: 10px;
+  }
+  .members-div img.members-group-img {
+    width: 75px;
+  }
+  .members-div h2.member-count {
+    font-size: 15px;
+    line-height: 13px;
+    margin-bottom: 5px;
+  }
+
+  .howitworks {
+    height: fit-content;
+    background-image: none;
+  }
+  .section-padding {
+    padding: 40px 20px;
+  }
+  .hiw-boxes .cards {
+    text-align: center;
+    margin-top: 11px;
+    margin-bottom: 0px;
+    padding: 15px;
+  }
+  .section-padding {
+    height: fit-content;
+  }
+  .hiw-boxes .cards-text {
+    line-height: 17px;
+    font-size: 12px;
+  }
+  .faq-padding {
+    padding: 108px 20px 44px 20px;
+  }
+  .faq .main-img {
+    height: 244px;
+    width: 240px;
+  }
+  .faq .small-img {
+    right: 120px;
+    bottom: -50px;
+    width: 138px;
+  }
+  .faq .after-img {
+    bottom: -16%;
+    right: 221px;
+  }
+  .faq-text {
+    right: 76px;
+    top: 31px;
+  }
+  .hiw-boxes img.circle_overlaps {
+    display: none;
+  }
+  .wcu_box {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .wcu_box::before {
+    display: none;
+  }
+
+  .whyChooseUs {
+    padding: 40px 0px 40px 0px;
+  }
+  .wcu-right .card-box img {
+    width: 40px;
+  }
+  .wcu-right .card-box .card-text {
+    line-height: 16px;
+    font-size: 13px;
+  }
+  .wcu-right .card-box .card-title {
+    font-size: 13px;
+    line-height: 11px;
+  }
+  .wcu-right .card-box {
+    width: 90%;
+    margin: 8px auto;
+    padding: 10px 9px;
+  }
+
+  .foot_brochure {
+    width: 100%;
+  }
+  .foot_list1 {
+    width: 20%;
+  }
+  .foot_list2 {
+    width: 30% !important;
+  }
+  .foot_address {
+    width: 50%;
+  }
+  .foot_address p {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .foot_address h4 {
+    font-size: 13px;
+    line-height: 17px;
+  }
+  .foot_list1 ul li {
+    font-size: 13px;
+    line-height: 26px;
+  }
+  .brochure {
+    padding: 21px 8px 15px 8px;
+    height: 158px;
+    margin-top: 23px;
+  }
+  .sm-show {
+    display: block;
+  }
+  .sm-hide {
+    display: none;
+  }
+  .bro_text p {
+    font-size: 13px;
+    line-height: 19px;
+  }
+  .bro_text {
+    padding-right: 0%;
+  }
+  .brochur_btn {
+    bottom: 20px;
+    width: 200px;
+    left: 8px;
+  }
+  .fb-left ul li {
+    line-height: 13px;
+    margin-top: 6px;
+    font-size: 13px;
+  }
+  .brochure {
+    background-position: bottom -121px right -56px;
+  }
+  .slider_box .slider_left img {
+    width: 75px !important;
+    height: 75px;
+    top: 70px;
+    left: 12px;
+  }
+  .slider_box .slider_right h2 {
+    font-size: 15px;
+    line-height: 4px;
+  }
+  .slider_box .slider_right p {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .slider_box .slider_left img {
+    width: 70px !important;
+    height: 70px;
+    top: 70px;
+    left: 9px;
+  }
+
+  .clients-padding {
+    padding: 0px 20px 40px 20px;
+  }
+  .hiw-boxes .cards-img-top {
+    width: 55px;
+  }
+  button.readmore {
+    font-size: 13px;
+    line-height: 12px;
+    color: #ffffff;
+    padding: 11px 24px 11px 24px;
+    margin-top: 0px;
+  }
+  .banner-image {
+    width: 77%;
+  }
+  .navbar-brand .logo_img {
+    width: 70px;
+  }
+  .logo_bg {
+    width: 70px;
+  }
+  header {
+    padding: 7.33px 0px 7.33px 0px;
+  }
+  .header-padding {
+    height: 43.3px;
+    padding: 43.3px 0px 0px 0px;
+  }
+  header .container-fluid {
+    padding: 0px 4px 0px 18px !important;
+  }
+  .navbar-toggler-icon {
+    width: 1.2em;
+    height: 1.2em;
+  }
+  .form_title {
+    font-size: 15px;
+    line-height: 12px;
+  }
+  .form_area, .form_area.login {
+    padding: 33px 30px 33px 27px;
+  }
+  .field_area label {
+    font-size: 13px;
+    line-height: 14px;
+  }
+  .field_area input {
+    height: 40px;
+    font-size: 14px;
+  }
+  .fa-eye::before {
+    width: 16px;
+    height: 16px;
+  }
+  button.login-submit {
+    font-size: 13px;
+    line-height: 12px;
+    padding: 13px 27px 13px 27px;
+  }
+  .form_subtitle {
+    font-size: 13px;
+    line-height: 14px;
+  }
+  .signup_text p, .signup_text a, .frgtpsw p, .frgtpsw a {
+    font-size: 13px;
+    line-height: 19px;
+  }
+  .signup_bottom {
+    margin-top: 34px;
+  }
+  .field_area p.error {
+    font-size: 13px;
+    line-height: 14px;
+  }
+  .agree_area label {
+    line-height: 22px;
+  }
+  .agree_area input[type="checkbox"] {
+    width: 27px;
+  }
+  .agree_area label::before {
+    height: 23px;
+    width: 23px;
+  }
+  .formTag .col {
+    flex: unset;
+  }
+  .field_area {
+    margin-bottom: 10px;
+  }
+  .form_area .logo_area a img {
+    width: 23%;
+  }
+  .signup .container {
+    max-width: 98%;
+  }
+  .signup_box {
+    margin: 25px 0px;
+  }
+  .agree_area label {
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  .usermenus {
+    right: 11%;
+  }
+  img.userplaceholder {
+    width: 22px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .faq .main-img {
+    height: 224px;
+    width: 220px;
+    left: 30px;
+  }
+  .faq .cross-img {
+    left: 36px;
+    width: 59px;
+    top: -47px;
+  }
+  .faq .small-img {
+    right: 78px;
+    bottom: -23px;
+    width: 110px;
+  }
+  .faq .after-img {
+    width: 140px;
+    height: auto;
+    bottom: -5%;
+    right: 145px;
+  }
+  .faq-text {
+    right: 18px;
+    top: 31px;
+  }
+  .faq-text .rotate-text {
+    font-size: 12px;
+  }
+  .brochure {
+    padding: 14px 8px 15px 8px;
+    height: 140px;
+    margin-top: 25px;
+  }
+  .brochure_mob {
+    display: none;
+  }
+  .slider_box,
+  .slider_inner {
+    height: 205px;
+  }
+  .slider_box .slider_left img {
+    width: 60px !important;
+    height: 60px;
+    top: 37px;
+    left: 9px;
+  }
+  .banner .banner-btns .btn-getSt,
+  .banner .banner-btns .btn-readMore {
+    font-size: 11px;
+    line-height: 5px;
+    padding: 13px 10px 13px 10px;
+    margin: 0px 4px 0px 3px;
+  }
+  .bro_text p {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .brochur_btn {
+    bottom: 22px;
+    left: 8px;
+    width: 165px;
+  }
+  .fb-right h4 {
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 5px;
+  }
+  .fb-left img {
+    width: 60px;
+    height: 26px;
+  }
+  .slider_box .slider_right h2 {
+    font-size: 13px;
+    line-height: 4px;
+  }
+  .slider_box .slider_right p {
+    font-size: 13px;
+    line-height: 19px;
+  }
+  .slider_box .slider_right h4,
+  .slider_box .slider_right h4 span {
+    font-size: 13px;
+    line-height: 18px;
+  }
+  .field_area label {
+    font-size: 11px;
+    line-height: 14px;
+  }
+  .field_area input {
+    height: 36px;
+    font-size: 13px;
+    margin-top: 4px;
+  }
+  .formTag {
+    margin: 20px 0px 28px 0px;
+  }
+  .signup_text p, .signup_text a, .frgtpsw p, .frgtpsw a {
+    font-size: 12px;
+    line-height: 14px;
+  }
+  .agree_area label {
+    line-height: 17px;
+  }
+  .agree_area label::before {
+    height: 20px;
+    width: 20px;
+    top: 10px;
+  }
+  .agree_area input[type="checkbox"] {
+    width: 25px;
+  }
+  button.login-submit {
+    font-size: 12px;
+    line-height: 10px;
+    padding: 11px 22px 11px 22px;
+  }
+  .fa-eye::before {
+    width: 15px;
+    height: 15px;
+    top: -14px;
+  }
+  .signup_bottom {
+    margin-top: 24px;
+  }
+  .form_area, .form_area.login {
+    padding: 27px 18px 27px 19px;
+  }
+  .form_area .logo_area a img {
+    width: 25%;
+  }
+  .agree_area label {
+    margin-left: 0px;
+    margin-top: 4px;
+  }
+  .otpBtn button {
+    padding: 15px 0px;
+    font-size: 14px;
+    line-height: 15px;
+    width: 100%;
+  }
+  .otp_area input[type="number"] {
+    width: 40px !important;
+    height: 40px;
+  }
+  .usermenus {
+    right: 12%;
+  }
+}
+
+/* ------------------480px-----------------  */
+
+@media screen and (max-width: 400px) {
+  .banner p.banner-desc {
+    margin: 0px 97px 10px 0px;
+  }
+  .faq .main-img {
+    top: 0px;
+    height: 214px;
+    width: 210px;
+  }
+  .faq .cross-img {
+    top: -33px;
+  }
+  .faq .small-img {
+    right: 18px;
+    bottom: -46px;
+    width: 112px;
+  }
+  .faq .after-img {
+    bottom: -16%;
+    width: 100px;
+    height: auto;
+    right: 96px;
+  }
+  .faq-text {
+    right: -26px;
+    top: 41px;
+  }
+  .slider_box .slider_right {
+    padding: 9px 5px 9px 13px;
+  }
+  .slider_box .slider_right h2 {
+    line-height: 10px;
+  }
+  .foot_list1 {
+    width: 40%;
+  }
+  .foot_list2 {
+    width: 60% !important;
+  }
+  .foot_address {
+    width: 100%;
+    margin-top: 16px;
+  }
+  .foot_list1 ul li {
+    font-size: 12px;
+    line-height: 23px;
+  }
+  .fb-left ul li {
+    line-height: 0px;
+    margin-top: 0px;
+    font-size: 12px;
+  }
+  .foot_right a {
+    right: 6px;
+    width: 34px;
+  }
+  .otp_area {
+    padding: 40px 30px 20px 30px;
+  }
+  .otp_area input[type="number"] {
+    width: 35px !important;
+    height: 35px;
+  }
+  .otpBtn button {
+    padding: 12px 0px;
+    font-size: 13px;
+  }
+  .otp_area .subtitle, .otpBtn p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 12px;
+    margin-bottom: 13px;
+  }
+  .usermenus {
+    right: 14%;
+  }
+}
+
+/* ------------------400px-----------------  */
+@media screen and (max-width: 360px) {
+  .banner-image {
+    width: 93%;
+    height: 274px;
+  }
+  .banner {
+    height: 275px !important;
+  }
+  .banner .banner-txt {
+    padding: 3px 20px 32px 20px;
+    z-index: 999;
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+  .banner .banner-heading {
+    font-size: 16px;
+    line-height: 24px;
+    margin: 16px 19px 10px 2px;
+  }
+  .members-div {
+    width: 90px;
+    height: 125px;
+    padding: 5px;
+    bottom: 46px;
+    right: 8px;
+  }
+  .banner p.banner-desc {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .banner .banner-btns .btn-getSt,
+  .banner .banner-btns .btn-readMore {
+    font-size: 11px;
+    line-height: 10px;
+    padding: 9px 10px 13px 10px;
+    margin: 0px 6px 0px 0px;
+  }
+  .faq .main-img {
+    top: 0px;
+    height: 174px;
+    width: 170px;
+    left: 0px;
+  }
+  .faq .small-img {
+    right: 20px;
+    bottom: -46px;
+    width: 97px;
+  }
+  .faq .after-img {
+    bottom: -11%;
+    width: 120px;
+    height: 80px;
+  }
+  .faq::after {
+    top: -12px;
+    right: 32px;
+    width: 35px;
+    height: 35px;
+  }
+  .faq-text .rotate-text {
+    font-size: 11px;
+  }
+  .faq-text {
+    right: 4px;
+    top: 28px;
+  }
+  
+  button.readmore {
+    font-size: 12px;
+    line-height: 10px;
+    color: #ffffff;
+    padding: 10px 15px 10px 15px;
+    margin-top: 0px;
+  }
+  .banner .banner-heading,
+  .howitworks .head-area h2,
+  .hiw-bottom h3,
+  .testihead h1,
+  .wcu_box .title,
+  .faq-right-head h2,
+  .faq-sm .rotate-text {
+    font-size: 15px;
+    line-height: 19px;
+  }
+  .wcu_box .sub-title {
+    font-size: 14px;
+    line-height: 5px;
+  }
+  .slider_box .slider_right p {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  .slider_box .slider_left img {
+    width: 50px !important;
+    height: 50px;
+    top: 37px;
+    left: 3px;
+  }
+  .slider_box .slider_right h4,
+  .slider_box .slider_right h4 span {
+    font-size: 12px;
+    line-height: 17px;
+  }
+  .clients_top_img {
+    width: 135px;
+  }
+
+  footer .foot_left {
+    width: 91.667% !important;
+  }
+  .signup_bottom {
+    margin-top: 20px;
+  }
+  .signup_bottom {
+    margin-top: 20px;
+    display: block !important;
+  }
+  .signup_text {
+    text-align: left;
+    margin-top: 16px;
+  }
+  .signup_text p, .signup_text a, .frgtpsw p, .frgtpsw a {
+    font-size: 12px;
+    line-height: 11px;
+  }
+  .field_area p.error {
+    font-size: 12px;
+  }
+  .form_subtitle {
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 10px;
+  }
+  .form_area .logo_area a img {
+    width: 27%;
+  }
+  .otp_area h1 {
+    font-size: 15px;
+    line-height: 8px;
+  }
+  .otp_area input[type="number"] {
+    width: 30px !important;
+    height: 30px;
+    font-size: 13px;
+  }
+  .otpBtn button {
+    padding: 9px 0px;
+    font-size: 12px;
+    margin-top: 17px;
+  }
+  .otp_area div {
+    gap: 0.3rem;
+  }
+  .otp_area {
+    padding: 40px 10px 20px 10px;
+  }
+  .usermenus {
+    right: 16%;
+  }
+}
+
+/* ------------------360px-----------------  */
+
+/* ------------------330px-----------------  */
+@media screen and (max-width: 332px) {
+  .banner {
+    height: 277px !important;
+  }
+  .banner-image {
+    height: 275px;
+  }
+  .faq .after-img {
+    bottom: -11%;
+    width: 90px;
+    height: 50px;
+    right: 96px;
+  }
+  .brochur_btn {
+    bottom: 15px;
+  }
+  .slider_inner::before {
+    left: 4px;
+  }
+  .slider_box .slider_left img {
+    width: 58px !important;
+    height: 58px;
+    left: 4px;
+  }
+  .slider_box .slider_right h2 {
+    font-size: 15px;
+    line-height: 17px;
+  }
+  .slider_box .slider_right p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+  .form_area .logo_area a img {
+    width: 33%;
+  }
+}
+/* ------------------330px-----------------  */
