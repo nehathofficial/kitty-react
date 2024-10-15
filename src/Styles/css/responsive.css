@@ -1368,6 +1368,9 @@
     height: -moz-fit-content;
     height: fit-content;
   }
+  .wcu-right::after {
+    background-image: none !important;
+  }
   .wcu_card_lg {
     display: none !important;
   }
