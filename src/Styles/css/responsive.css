@@ -134,7 +134,7 @@
     width: 22px;
   }
   .headafter {
-    right: 12%;
+    right: 15%;
   }
 }
 @media screen and (max-width: 1399px) {
@@ -637,7 +637,7 @@
     background-size: 100% 633px;
   }
   .headafter {
-    right: 14%;
+    right: 16%;
   }
 }
 
@@ -693,7 +693,7 @@
     margin-top: 5px;
   }
   .headafter {
-    right: 15%;
+    right: 18%;
   }
 }
 
@@ -1122,6 +1122,7 @@
   .usermenus {
     position: absolute;
     right: 9%;
+    top: 5px;
   }
   .dropdown-menu-lg-start[data-bs-popper] {
     left: -118px;
@@ -1954,6 +1955,7 @@
   }
   .usermenus {
     right: 11%;
+    top: 0px;
   }
   img.userplaceholder {
     width: 22px;

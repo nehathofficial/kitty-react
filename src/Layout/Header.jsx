@@ -156,8 +156,10 @@ const Header = () => {
                       Contact Us
                     </Link>
                   </li>
+                {!userToken && (
+                    <>
                   <li className="nav-item sm-res">
-                    <Link className="nav-link" to="#">
+                    <Link className="nav-link" to="/signup">
                       Signup
                     </Link>
                   </li>
@@ -166,8 +168,6 @@ const Header = () => {
                       Login
                     </Link>
                   </li>
-                  {!userToken && (
-                    <>
                       <li className="nav-item lg-res">
                         <Link className="nav-signup" to="/signup">
                           Signup
